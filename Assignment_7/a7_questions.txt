@@ -1,0 +1,17 @@
+5. What string method can be used to convert string into array ?
+
+split();
+
+6. What string method can be used to check the occurrence of a specified text in a string?
+
+includes();
+
+7. How can you break a string to a newline in Javascript ?
+
+\n - newline
+
+9. Give a correct verdict to users input if he enters "yes", "YES","Yes" ,etc
+(any combination) using string methods.
+How will you handle that ?
+
+Convert to either lower or upper case.
